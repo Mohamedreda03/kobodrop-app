@@ -1,7 +1,7 @@
 import StoreLinks from "./StoreLinks";
 
 import Phone from "../assets/mockup.svg";
-import HeroImg from "../assets/hero.png";
+import HeroImg from "../assets/hero.webp";
 
 export default function Hero() {
   return (
